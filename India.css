@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&display=swap');
+
+
+body {
+    background-color:#19507b;
+    background-color: cover;
+    font-family: 'Roboto Serif', sans-serif;
+   color: white;
+    text-align: left ;
+  padding-left:10px;
+font-size:2em;
+}
+
+header {
+ font-family: 'Bitter', serif;
+    color: white;
+    text-align: left;
+font-size:2em;
+
+
+}
